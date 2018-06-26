@@ -1,12 +1,26 @@
 h1  {
-    font-family: veranda;
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
+    font-family: verdana;
   }
 
 body  {
     background-color: black;
     text-align: center;
+}
+h2     {
+    color: aquamarine;
+    font-size: 16px
+}
+.para {
+    font-size: 21px;
+    color: gray;
+    font-family: verdana;
+}
+.par {
+    color: gray;
+    font-size: 16px;
+    text-align: right;
 }
